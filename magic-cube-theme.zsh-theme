@@ -22,7 +22,7 @@ function time_icon {
 
 ZSH_THEME_GIT_PROMPT_PREFIX=" %{$FG[239]%}⦅%{$reset_color%} %{$FG[200]%} %{$reset_color%}%{$fg[255]%}"
 ZSH_THEME_GIT_PROMPT_SUFFIX="%{$FG[239]%} ⦆%{$reset_color%}"
-ZSH_THEME_GIT_PROMPT_DIRTY="%{$FG[030]%}🗘"
+ZSH_THEME_GIT_PROMPT_DIRTY="%{$FG[030]%}⇅"
 ZSH_THEME_GIT_PROMPT_CLEAN="%{$FG[040]%}✔"
 
 function virtualenv_info {
